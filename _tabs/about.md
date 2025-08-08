@@ -12,4 +12,4 @@ Amazon Web Services Learning Club - University of the Philippines Mindanao is th
 
 ![AWSCC Website](/assets/img/awscc-website.png)
 
-You may visit our official website [here](https://www.awsccupmindanao.org/){:target="_blank"} .
+You may visit our official website [here](https://www.awsccupmindanao.org/){:target="_blank"}.
